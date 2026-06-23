@@ -1,0 +1,11 @@
+jupyter
+numpy
+pandas
+scipy
+matplotlib
+scikit-learn
+statsmodels
+cvxpy
+
+# Optional, nur für download_offline_data.py (Daten neu laden):
+yfinance
